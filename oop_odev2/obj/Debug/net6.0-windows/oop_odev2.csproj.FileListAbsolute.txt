@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\oop_odev2.exe
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\oop_odev2.deps.json
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\oop_odev2.runtimeconfig.json
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\oop_odev2.dll
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\ref\oop_odev2.dll
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\bin\Debug\net6.0-windows\oop_odev2.pdb
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.Form1.resources
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.dll
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\ref\oop_odev2.dll
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.pdb
+C:\Users\Administrator\source\repos\oop_odev2\oop_odev2\obj\Debug\net6.0-windows\oop_odev2.genruntimeconfig.cache
