@@ -7,7 +7,6 @@
 **
 ** ÖDEV NUMARASI..........:ÖDEV-2
 ** ÖĞRENCİ ADI............:EMİRHAN ETLİ
-** ÖĞRENCİ NUMARASI.......:B211210047
 ** DERSİN ALINDIĞI GRUP...:NESNEYE DAYALI PROGRAMLAMA(B)
 ****************************************************************************/
 using System;
